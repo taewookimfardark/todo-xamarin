@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ToDoApp.ToDoDetailPage">
+  <StackLayout Orientation="Vertical">
+    <Label Text="제목"></Label>
+    <Entry Text="{Binding SelectedMemo.Name}"></Entry>
+    <Switch IsToggled="{Binding SelectedMemo.IsChecked}"></Switch>
+    <StackLayout>
+      <Button Text="수정"></Button>
+      <Button Text="삭제"></Button>
+    </StackLayout>
+  </StackLayout>
+</ContentPage>

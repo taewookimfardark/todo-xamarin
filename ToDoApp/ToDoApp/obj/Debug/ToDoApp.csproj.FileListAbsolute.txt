@@ -1,0 +1,17 @@
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\bin\Debug\ToDoApp.dll
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\bin\Debug\ToDoApp.pdb
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csprojResolveAssemblyReference.cache
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.dll
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.ToDoListPage.xaml.g.cs
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.ToDoDetailPage.xaml.g.cs
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.ToDoAddMemoPage.xaml.g.cs
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.dll.mdb
+c:\users\taewoo\documents\visual studio 2015\Projects\ToDoApp\ToDoApp\ToDoApp\bin\Debug\ToDoApp.dll.mdb

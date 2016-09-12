@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ToDoApp.ToDoAddMemoPage">
+  <StackLayout Orientation="Vertical">
+    <Label Text="제목"/>
+    <Entry Text="{Binding Memo.Name, Mode=TwoWay}"/>
+    <Switch IsToggled="{Binding Memo.IsChecked, Mode=TwoWay}"></Switch>
+    <Button Text="추가"
+            Command="{Binding AddMemoCommand}"
+            Clicked="OnDismissButtonClicked"/>
+  </StackLayout>
+</ContentPage>
